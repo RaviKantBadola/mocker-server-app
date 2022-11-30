@@ -5,5 +5,12 @@
              "status":false,
              "id":"afjafhjkahfhffj"
         }
+    ],
+    "signup":[
+        {
+            "name":"Ravi Kant Badola",
+            "email":"ravi@gmail.com",
+            "password":"masaischool"
+        }
     ]
 }
